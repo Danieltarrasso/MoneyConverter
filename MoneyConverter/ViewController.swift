@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        print("whaddup bois")
     }
 
     override func didReceiveMemoryWarning() {
@@ -20,7 +21,12 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-    class UIImageView : UIView{}
+    @IBAction func btn_next(_ sender: Any) {
+    }
+    
+    @IBAction func btn_previous(_ sender: Any) {
+    }
+    
 
 }
 

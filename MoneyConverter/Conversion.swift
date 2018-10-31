@@ -10,6 +10,14 @@ import Foundation
 
 public class Conversion{
     var input: Int
-    var 
+    var title: String
+
+    init(input: Int, title: String){
+        self.input = input
+        self.title = title
+    }
+
 }
+
+
 
