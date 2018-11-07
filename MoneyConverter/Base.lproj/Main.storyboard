@@ -118,6 +118,7 @@
                         <outlet property="backgoundImage" destination="8bC-Xf-vdC" id="D7y-sm-W6N"/>
                         <outlet property="background" destination="lsd-fR-hwX" id="xTe-cR-IH3"/>
                         <outlet property="flag" destination="qC9-lA-dog" id="sXz-FA-zo9"/>
+                        <outlet property="pickerView" destination="TdR-zp-gDU" id="18C-gO-eQU"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
